@@ -26,7 +26,7 @@ a {
   font-size: 45px;
   letter-spacing: 5px;
 }
-
+.
 
 .btn-wrapper {
   margin: 20px 0;
@@ -118,6 +118,15 @@ header {
   float: left;
   width: 25%;
 }
+
+.img{
+  height: 50px;
+  width:  70px;
+}
+
+
+
+
 
 .lesson-icon {
   position: relative;
