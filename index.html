@@ -20,7 +20,7 @@
     <div class="main">
       <div class="copy-container">
         <h1>私の仕事<span>.</span></h1>
-        <h2>こんなことやってます！</h2>
+        <h2>こんなことしてます</h2>
       </div>
 
       <div class="contents">
@@ -39,12 +39,20 @@
         </div>
       </div>
 
-      <div class ="order-menu">
-       <a href="mailto:iamakindman@docomo.ne.jp">お問い合わせ</a>
-       </div>
-      
+ご注文をどうぞ<br> 
+<form method="POST" action="/asp/mailto.asp"> 
+<input type="hidden" name="toaddr" value="iamakindman@docomo.ne.jp"> 
+<input type="hidden" name="subject" value="■ご注文内容"> 
+あなたのメールアドレス 
+<input type="text" name="fromaddr" size="56"><br> 
+ご意見ご感想<br> 
+<textarea rows="4" name="body" cols="59"></textarea><br> 
+<input type="submit" value="このボタンを押して送信してください">
+<input type="hidden" name="nextpage" value="/usr/あなたのID/thanks.html"> 
+</form>
+
     <div class="footer">
-      <div class="footer-logo">ひぐっちゃん</div>
+      <div class="footer-logo">私の仕事</div>
       <div class="footer-list">
         <ul>
           <li>会社概要</li>
