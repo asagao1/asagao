@@ -74,6 +74,11 @@ li {
   padding-top: 100px;
 }
 
+.order a{
+font-size:30px;
+
+}
+
 /* inputとtextareaのCSSを指定してください */
 input, textarea {
   width:400px;
