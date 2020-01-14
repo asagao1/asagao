@@ -10,7 +10,7 @@ li {
   background-color: #26d0c9;
   color: #fff;
   height: 90px;
-}
+}https://github.com/asagao1/asagao/blob/master/20200114home.css
 
 .header-logo {
   float: left;
@@ -65,7 +65,7 @@ li {
   padding-top: 100px;
 }
 
-/* input‚Ætextarea‚ÌCSS‚ğw’è‚µ‚Ä‚­‚¾‚³‚¢ */
+/* inputã¨textareaã®CSSã‚’æŒ‡å®šã—ã¦ãã ã•ã„ */
 input, textarea {
   width:400px;
   margin-top:10px;
@@ -75,7 +75,7 @@ input, textarea {
   border:1px solid #dee7ec;
 }
 
-/* contact-submit‚ÌCSS‚ğw’è‚µ‚Ä‚­‚¾‚³‚¢ */
+/* contact-submitã®CSSã‚’æŒ‡å®šã—ã¦ãã ã•ã„ */
 .contact-submit{
   background-color :#dee7ec;
   color:#889eab;
