@@ -1,4 +1,4 @@
-
+@@charset "UTF-8";
 body {
   font-family: "Avenir Next";
 }
@@ -28,18 +28,20 @@ li {
 }
 
 
-
-
 .main {
   padding: 100px 80px;
+   text-align: center;
 }
 
 .copy-container h1 {
-  font-size: 100px;
+  font-size: 80px;
+  color:rgba(255,0,0,0)
+  font-family:verdana,sans-serif;
+
 }
 
 .copy-container h2 {
-  font-size: 60px;
+  font-size: 50px;
 }
 
 .copy-container span {
@@ -74,6 +76,7 @@ li {
   font-size: 28px;
   margin-left: 30px;
   border-bottom: 2px solid #dee7ec;
+   text-decoration: underline;
 }
 h3{
   font-size:24px;
@@ -134,16 +137,3 @@ input, textarea {
     width: 100%;
   }
 }
-
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
