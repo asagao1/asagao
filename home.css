@@ -34,14 +34,24 @@ li {
 }
 
 .copy-container h1 {
-  font-size: 80px;
+  background-color: skyblue;
+  width:600px;
+  height:120px;
+  font-size: 90px;
   color:rgba(255,0,0,0)
   font-family:verdana,sans-serif;
+  margin-left: 300px;
+  border-style:solid;
+  boder-color:blue;
+  border-radius: 10px;
+
+
 
 }
 
 .copy-container h2 {
   font-size: 50px;
+  color:orange;
 }
 
 .copy-container span {
